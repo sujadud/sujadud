@@ -15,7 +15,7 @@ Currently, I am working as a Web Application Developer at [Alpha Net](https://al
 
 ### Frameworks
 - **ASP.NET**, **ASP.NET Core**
-- Entity Framework 6, MediatR, Dapper
+- Entity Framework 6, MediatR
 - **ASP.NET MVC 5**, Blazor server
 
 ### Development Functionalities
