@@ -62,7 +62,7 @@ Currently, I am working as a Web Application Developer at [Alpha Net](https://al
 **Role**: ASP.NET Core C# Developer
 **Duration**: August 2023 - Present
 - Led the development of web applications using **ASP.NET Core** and **ASP.NET MVC 5**.
-- Architected solutions with **Blazor Server** and **WebAPI** for seamless front-end and back-end integration.
+- Architected solutions with **Razor** and **ASP.NET Core** for seamless front-end and back-end integration.
 - Implemented **Identity** and **Entity Framework 6** for secure and efficient data management.
 - Solved complex problems with **Microservices** and applied **SOLID** and **DDD Architecture** principles for maintainable and scalable solutions.
 - Enhanced application security and performance using **CORS**, **Custom Attributes**, and **Routing**.
