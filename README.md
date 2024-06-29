@@ -34,10 +34,7 @@ Currently, I am working as a Web Application Developer at [Alpha Net](https://al
 - **Amazon Web Services (AWS)**
 
 ### DevOps and CI/CD
-- **Azure DevOps**, GitHub Actions
-
-### Testing and QA
-- NUnit, xUnit, Moq
+- **Azure DevOps**, GitHub
 
 ---
 
