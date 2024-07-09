@@ -16,7 +16,7 @@ Currently, I am working as a Web Application Developer at [Alpha Net](https://al
 ### Frameworks
 - **ASP.NET**, **ASP.NET Core**
 - Entity Framework 6, MediatR
-- **ASP.NET MVC 5**, Blazor server
+- **ASP.NET MVC 5**, Angular, Blazor server
 
 ### Development Functionalities
 - **Identity**: Implementing authentication and authorization using ASP.NET Identity.
