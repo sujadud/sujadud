@@ -20,7 +20,7 @@ Currently, I am working as a Web Application Developer at [Alpha Net](https://al
 
 ### Development Functionalities
 - **Identity**: Implementing authentication and authorization using ASP.NET Identity.
-- **Entity Framework 6**: Utilizing ORM for database access and manipulation.
+- **EF Core & EF 6**: Utilizing ORM for database access and manipulation.
 - **CORS**: Configuring Cross-Origin Resource Sharing for secure API communication.
 - **Custom Attributes**: Creating and using custom attributes for modular and reusable code.
 - **SOLID Architecture**: Applying SOLID principles for maintainable and scalable software design.
