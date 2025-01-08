@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I am a passionate software developer specializing in **ASP.NET**, **ASP.NET Core**, and **C#**. I am trained in Web Application Development using ASP.NET and C# through the prestigious [IsDB-BISEW IT Scholarship Programme](https://isdb-bisew.org/). I have learned robust .NET and web application techniques, achieving excellent scores in the scholarship.
 
-Currently, I am working as a Web Application Developer at [Alpha Net](https://alpha.net.bd), where I excel in building robust, scalable, and secure web applications. My expertise lies in solving complex problems and ensuring seamless cross-platform compatibility across various operating systems and devices.
+Currently, I am a Web Application Developer at [Alpha Net](https://alpha.net.bd), where I excel in building robust, scalable, and secure web applications. My expertise lies in solving complex problems and ensuring seamless cross-platform compatibility across various operating systems and devices.
 
 ---
 
@@ -15,7 +15,7 @@ Currently, I am working as a Web Application Developer at [Alpha Net](https://al
 
 ### Frameworks
 - **ASP.NET**, **ASP.NET Core**
-- Entity Framework 6, MediatR
+- EF & EF Core, Fluent API, MediatR
 - **ASP.NET MVC 5**, Angular, Blazor server
 
 ### Development Functionalities
@@ -25,7 +25,7 @@ Currently, I am working as a Web Application Developer at [Alpha Net](https://al
 - **Custom Attributes**: Creating and using custom attributes for modular and reusable code.
 - **SOLID Architecture**: Applying SOLID principles for maintainable and scalable software design.
 - **SPA (Single Page Application)**: Developing dynamic and responsive user interfaces.
-- **Routing**: Implementing sophisticated routing mechanisms in ASP.NET Core and MVC.
+- **Routing**: Implementing sophisticated ASP.NET Core and MVC routing mechanisms.
 - **Clean Architecture**: Structuring codebase for maximum readability and maintainability.
 - **DDD (Domain-Driven Design) Architecture**: Applying DDD principles for complex business applications.
 
