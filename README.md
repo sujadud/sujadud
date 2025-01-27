@@ -3,8 +3,6 @@
 
 Welcome to my GitHub profile! I am a passionate software developer specializing in **ASP.NET**, **ASP.NET Core**, and **C#**. I am trained in Web Application Development using ASP.NET and C# through the prestigious [IsDB-BISEW IT Scholarship Programme](https://isdb-bisew.org/). I have learned robust .NET and web application techniques, achieving excellent scores in the scholarship.
 
-Currently, I am a Web Application Developer at [Alpha Net](https://alpha.net.bd), where I excel in building robust, scalable, and secure web applications. My expertise lies in solving complex problems and ensuring seamless cross-platform compatibility across various operating systems and devices.
-
 ---
 
 ## 🛠️ Skills and Technologies
