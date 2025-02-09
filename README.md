@@ -70,7 +70,7 @@ Feel free to reach out to me for collaborations, job opportunities, or just to s
 
 ---
 
-### 🎯 Goals for 2024
+### 🎯 Goals for 2025
 - Contribute more to open-source projects
 - Explore new technologies like Blazor and MAUI
 - Improve my knowledge of cloud-native development
