@@ -1,11 +1,12 @@
-# 👋 Hi there, I'm Sujad UD 👨‍💻  
+# 👋 Hi there, I'm Sujad UD
 
-Welcome to my GitHub profile! I am a passionate software developer specializing in **ASP.NET**, **ASP.NET Core**, and **C#**. I was trained in Web Application Development through the prestigious [IsDB-BISEW IT Scholarship Programme](https://isdb-bisew.org/), where I honed my skills in robust .NET and web application techniques, achieving excellent scores.  
+## 👨‍💻 About Me 
+I am a skilled **software developer** with practical experience in both **backend** and **frontend** development. I specialize in **ASP.NET** and **ASP.NET Core**, integrating **C#** and **Web APIs** for scalable solutions. I'm also proficient in building responsive **front-end applications** using **HTML, CSS, JavaScript, jQuery**, and frameworks like **Angular**. With strong expertise in **SQL Server** for database management and performance optimization, I effectively design and implement data-driven solutions. Having worked with **Entity Framework**, I ensure seamless data integration and maintain high code quality. My hands-on experience allows me to excel in handling full-stack development, with a proven ability to deliver reliable, secure, and high-performance applications. Eager to take on new challenges and contribute to impactful projects!
 
-## 🏢 Work Experience  
+## 💼 Work Experience  
 
 ### Web Developer (C#) | Alpha Net | July 2023 – October 2024  
-At **Alpha Net**, I developed web applications using **.NET Core** and **C#**, implementing front-end features with **HTML, CSS, JavaScript, jQuery, and AJAX**. My responsibilities included:  
+At **[Alpha Net](https://alpha.net.bd/)**, I developed web applications using **.NET Core** and **C#**, implementing front-end features with **HTML, CSS, JavaScript, jQuery, and AJAX**. My responsibilities included:  
 - Working with **MVC architecture**, **Core Framework**, **Reflection & Attributes**, **Fluent API**, and **Entity Framework**.  
 - Managing database interactions using **SQL Server**.  
 - Version-controlling projects with **Git/Azure DevOps**.  
@@ -16,7 +17,12 @@ During my **6-month internship** at **US Software Ltd**, I expanded my skills by
 - Building back-end services using **Node.js/Express.js, C# 10, .NET 6, ASP.NET (MVC 5/Core 6)**.  
 - Designing and managing databases using **Entity Framework** and **MS SQL Server**.  
 - Contributing to **Razor-based applications** and **RESTful APIs (MVC 5/Core 6 Web API)**.  
-- Collaborating on team-based projects following industry best practices.  
+- Collaborating on team-based projects following industry best practices.
+
+## 🏆 Certification  
+- **[IsDB-BISEW](https://isdb-bisew.org/) Diploma in Web Application Development Using ASP.NET (WADA)**  
+  *IsDB-BISEW IT Scholarship Programme - Round 54*  
+
 ---
 
 ## 🛠️ Skills and Technologies
@@ -54,28 +60,6 @@ During my **6-month internship** at **US Software Ltd**, I expanded my skills by
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sujadud&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujadud&layout=compact&theme=radical)
-
----
-
-
-## 💼 Experience
-
-### IsDB-BISEW IT Scholarship Programme
-**Role**: Trainee in Web Application Development
-**Duration**: November 2022 - May 2023
-- Trained in ASP.NET and C# development.
-- Learned robust .NET and web application techniques.
-- Achieved excellent scores in the scholarship program.
-
-### Alpha Net (Alpha.net.bd)
-**Role**: ASP.NET Core C# Developer
-**Duration**: August 2023 - Present
-- Led the development of web applications using **ASP.NET Core** and **ASP.NET MVC 5**.
-- Architected solutions with **Razor** and **ASP.NET Core** for seamless front-end and back-end integration.
-- Implemented **Identity** and **Entity Framework 6** for secure and efficient data management.
-- Solved complex problems with **Microservices** and applied **SOLID** and **DDD Architecture** principles for maintainable and scalable solutions.
-- Enhanced application security and performance using **CORS**, **Custom Attributes**, and **Routing**.
-
 ---
 
 ## 📫 Get in Touch
