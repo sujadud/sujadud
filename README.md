@@ -1,11 +1,22 @@
-# 👋 Hi there, I'm Sujad UD 👨‍💻
+# 👋 Hi there, I'm Sujad UD 👨‍💻  
 
-Welcome to my GitHub profile! I am a passionate software developer specializing in **ASP.NET**, **ASP.NET Core**, and **C#**. I am trained in Web Application Development using ASP.NET and C# through the prestigious [IsDB-BISEW IT Scholarship Programme](https://isdb-bisew.org/). I have learned robust .NET and web application techniques, achieving excellent scores in the scholarship.
+Welcome to my GitHub profile! I am a passionate software developer specializing in **ASP.NET**, **ASP.NET Core**, and **C#**. I was trained in Web Application Development through the prestigious [IsDB-BISEW IT Scholarship Programme](https://isdb-bisew.org/), where I honed my skills in robust .NET and web application techniques, achieving excellent scores.  
 
-Web Developer (C#) | Alpha Net | July 2023 – October 2024
-At Alpha Net, I developed web applications using .NET Core and C#, implementing front-end features with HTML, CSS, JavaScript, jQuery, and AJAX. I worked with MVC architecture, Core Framework, Reflection & Attributes, Fluent API, and Entity Framework. Additionally, I handled database interactions using SQL Server and managed code versioning with Git/Azure DevOps.
+## 🏢 Work Experience  
 
-I have extended these skills daily over 6 months as a formal Internship Trainee at US Software Ltd, developing front-end components with HTML5, CSS3, Bootstrap, JavaScript, jQuery, and Angular 13, building back-end services using Node.js/Express.js, C# 10, .NET 6, ASP.NET (MVC 5/Core 6), and designing databases via Entity Framework and MS SQL Server. I contributed to Razor-based applications, and RESTful APIs (MVC 5/Core 6 Web API), and collaborated on team projects.
+### Web Developer (C#) | Alpha Net | July 2023 – October 2024  
+At **Alpha Net**, I developed web applications using **.NET Core** and **C#**, implementing front-end features with **HTML, CSS, JavaScript, jQuery, and AJAX**. My responsibilities included:  
+- Working with **MVC architecture**, **Core Framework**, **Reflection & Attributes**, **Fluent API**, and **Entity Framework**.  
+- Managing database interactions using **SQL Server**.  
+- Version-controlling projects with **Git/Azure DevOps**.  
+
+### Internship Trainee | US Software Ltd  
+During my **6-month internship** at **US Software Ltd**, I expanded my skills by:  
+- Developing front-end components with **HTML5, CSS3, Bootstrap, JavaScript, jQuery, and Angular 13**.  
+- Building back-end services using **Node.js/Express.js, C# 10, .NET 6, ASP.NET (MVC 5/Core 6)**.  
+- Designing and managing databases using **Entity Framework** and **MS SQL Server**.  
+- Contributing to **Razor-based applications** and **RESTful APIs (MVC 5/Core 6 Web API)**.  
+- Collaborating on team-based projects following industry best practices.  
 ---
 
 ## 🛠️ Skills and Technologies
