@@ -5,6 +5,25 @@ I am a skilled **software developer** with practical experience in both **backen
 
 ## 💼 Work Experience  
 
+### 💻 Software Engineer | [Software Arena Limited](https://softwarearenaltd.com/) | Current
+
+At **Software Arena Limited**, a leading Bangladeshi ICT company specializing in **ERP and enterprise business solutions**, I contribute to the design and development of scalable, web‑based ERP applications that empower organizations to control and optimize their operations.
+
+**Key Contributions:**
+
+-   Engineered ERP modules using **.NET Core (C#)** with **Angular & TypeScript**, ensuring seamless integration between backend and frontend.
+-   Built and consumed **RESTful Web APIs**, leveraging **Dapper** for high‑performance data access.
+-   Designed and optimized **SQL Server stored procedures** to handle complex business transactions efficiently.
+-   Integrated **Crystal Reports** into ERP workflows, delivering actionable insights for decision‑makers.
+-   Collaborated on **customized ERP solutions** tailored for government, private, and multinational clients.
+-   Maintained version control and collaborative workflows using **Git/GitHub**.
+
+**Impact:**
+
+-   Helped streamline business processes by delivering **custom ERP modules** aligned with client needs.
+-   Improved system performance and maintainability through clean architecture and optimized queries.
+-   Supported the company’s mission of providing **industry‑leading, web‑based ERP solutions** that scale across organizations of all sizes.
+
 ### Web Developer (C#) | Alpha Net | July 2023 – October 2024  
 At **[Alpha Net](https://alpha.net.bd/)**, I developed web applications using **.NET Core** and **C#**, implementing front-end features with **HTML, CSS, JavaScript, jQuery, and AJAX**. My responsibilities included:  
 - Working with **MVC architecture**, **Core Framework**, **Reflection & Attributes**, **Fluent API**, and **Entity Framework**.  
