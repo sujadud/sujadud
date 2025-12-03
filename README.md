@@ -5,7 +5,7 @@ I am a skilled **software developer** with practical experience in both **backen
 
 ## 💼 Work Experience  
 
-### 💻 Software Engineer | [Software Arena Limited](https://softwarearenaltd.com/) | Current
+### 💻 Software Engineer | [Software Arena Limited](https://softwarearenaltd.com/) | Present
 
 At **Software Arena Limited**, a leading Bangladeshi ICT company specializing in **ERP and enterprise business solutions**, I contribute to the design and development of scalable, web‑based ERP applications that empower organizations to control and optimize their operations. Contribute to streamlining business processes by delivering **custom ERP modules** aligned with client needs. Supported the company’s mission of providing **industry‑leading, web‑based ERP solutions** that scale across organizations of all sizes.
 
@@ -16,6 +16,16 @@ At **Software Arena Limited**, a leading Bangladeshi ICT company specializing in
 -   Integrated **Crystal Reports** into ERP workflows, delivering actionable insights for decision‑makers.
 -   Collaborated on **customized ERP solutions** tailored for government, private, and multinational clients.
 -   Maintained version control and collaborative workflows using **Git/GitHub**.
+
+### 📆 Career Break — Professional Development | Independent | November 2023 – July 2025
+Took a planned career break to focus on hands-on upskilling in modern .NET and full-stack development, with emphasis on architecture, performance, and testability.
+- Completed practical, project-based learning across .NET 8/9 (Minimal APIs), ASP.NET Core, Clean & Layered Architecture, DDD, CQRS applying these patterns to sample modules and proof-of-concept services.
+- Enhanced backend capabilities with both Code-First and Database-First ORM approaches to design scalable database schemas, streamline migrations, and improve query optimization, including strategic indexing overall API and application performance.
+- Built and tested RESTful APIs using EF Core, Dapper, MediatR, and implemented authentication/authorization patterns, practiced automated testing with xUnit, Moq, FluentAssertions.
+- Rebuilt example front-end integrations using Angular and Blazor, focusing on API integration, async UX patterns (AJAX/Fetch), Signal, and responsive layouts with Bootstrap.
+- Documented learning with code samples, unit tests, and short technical write-ups; ready to demonstrate via GitHub.
+- Outcome: Reentered the job market with updated, production-relevant skills in scalable .NET architectures and full-stack integration.
+
 
 ### Web Developer (C#) | Alpha Net | July 2023 – October 2024  
 At **[Alpha Net](https://alpha.net.bd/)**, I developed web applications using **.NET Core** and **C#**, implementing front-end features with **HTML, CSS, JavaScript, jQuery, and AJAX**. 
