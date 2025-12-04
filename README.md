@@ -17,7 +17,7 @@ At **Software Arena Limited**, a leading Bangladeshi ICT company specializing in
 -   Collaborated on **customized ERP solutions** tailored for government, private, and multinational clients.
 -   Maintained version control and collaborative workflows using **Git/GitHub**.
 
-### 📆 Career Break — Professional Development | Independent | November 2023 – July 2025
+### 📆 Career Break — Professional Development | Independent | November 2024 – July 2025
 Took a planned career break to focus on hands-on upskilling in modern .NET and full-stack development, with emphasis on architecture, performance, and testability.
 - Completed practical, project-based learning across .NET 8/9 (Minimal APIs), ASP.NET Core, Clean & Layered Architecture, DDD, CQRS applying these patterns to sample modules and proof-of-concept services.
 - Enhanced backend capabilities with both Code-First and Database-First ORM approaches to design scalable database schemas, streamline migrations, and improve query optimization, including strategic indexing overall API and application performance.
