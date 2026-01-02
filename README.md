@@ -1,105 +1,174 @@
 # 👋 Hi there, I'm Sujad UD
 
-## 👨‍💻 About Me 
-I am a skilled **software developer** with practical experience in both **backend** and **frontend** development. I specialize in **ASP.NET** and **ASP.NET Core**, integrating **C#** and **Restful Web APIs**, **Minimal APIs**  for scalable solutions. I'm also proficient in building responsive **front-end applications** using **HTML, CSS, JavaScript, jQuery**, and frameworks like **Angular** & **Blazor**. With strong expertise in **SQL Server** for database management and performance optimization, I effectively design and implement data-driven solutions. Having worked with **EF Core** & **Dapper**, I ensure seamless data integration and maintain high code quality and application containerization using Docker. My hands-on experience allows me to excel in handling full-stack development, with a proven ability to deliver reliable, secure, and high-performance applications. Eager to take on new challenges and contribute to impactful projects!
+🚀 **Software Engineer (Full-stack .NET Developer)** | Scalable .NET, Angular & Blazor Solutions
+💼 Currently at **AgainSoft** | Previously at Software Arena Limited  
+📍 Based in Dhaka, Bangladesh  
 
-## 💼 Work Experience  
+## 🛠️ Tech Stack
 
-### 💻 Software Engineer | [Software Arena Limited](https://softwarearenaltd.com/) | Present
-
-At **Software Arena Limited**, a leading Bangladeshi ICT company specializing in **ERP and enterprise business solutions**, I contribute to the design and development of scalable, web‑based ERP applications that empower organizations to control and optimize their operations. Contribute to streamlining business processes by delivering **custom ERP modules** aligned with client needs. Supported the company’s mission of providing **industry‑leading, web‑based ERP solutions** that scale across organizations of all sizes.
-
-**Key Contributions:**
--   Engineered ERP modules using **.NET Core (C#)** with **Angular & TypeScript**, ensuring seamless integration between backend and frontend.
--   Built and consumed **RESTful Web APIs**, leveraging **Dapper** for high‑performance data access.
--   Designed and optimized **SQL Server stored procedures** to handle complex business transactions efficiently.
--   Integrated **Crystal Reports** into ERP workflows, delivering actionable insights for decision‑makers.
--   Collaborated on **customized ERP solutions** tailored for government, private, and multinational clients.
--   Maintained version control and collaborative workflows using **Git/GitHub**.
-
-### 📆 Career Break — Professional Development | Independent | November 2024 – July 2025
-Took a planned career break to focus on hands-on upskilling in modern .NET and full-stack development, with emphasis on architecture, performance, and testability.
-- Completed practical, project-based learning across .NET 8/9 (Minimal APIs), ASP.NET Core, Clean & Layered Architecture, DDD, CQRS applying these patterns to sample modules and proof-of-concept services.
-- Enhanced backend capabilities with both Code-First and Database-First ORM approaches to design scalable database schemas, streamline migrations, and improve query optimization, including strategic indexing overall API and application performance.
-- Built and tested RESTful APIs using EF Core, Dapper, MediatR, and implemented authentication/authorization patterns, practiced automated testing with xUnit, Moq, FluentAssertions.
-- Rebuilt example front-end integrations using Angular and Blazor, focusing on API integration, async UX patterns (AJAX/Fetch), Signal, and responsive layouts with Bootstrap.
-- Documented learning with code samples, unit tests, and short technical write-ups; ready to demonstrate via GitHub.
-- Outcome: Reentered the job market with updated, production-relevant skills in scalable .NET architectures and full-stack integration.
-
-
-### Web Developer (C#) | Alpha Net | July 2023 – October 2024  
-At **[Alpha Net](https://alpha.net.bd/)**, I developed web applications using **.NET Core** and **C#**, implementing front-end features with **HTML, CSS, JavaScript, jQuery, and AJAX**. 
-My responsibilities included:  
-- Working with **MVC architecture**, **Core Framework**, **Reflection & Attributes**, **Fluent API**, and **Entity Framework**.  
-- Managing database interactions using **SQL Server**.  
-- Version-controlling projects with **Git/Azure DevOps**.  
-
-### Internship Trainee | US Software Ltd  
-During my **6-month internship** at **US Software Ltd**, I expanded my skills by:  
-- Developing front-end components with **HTML5, CSS3, Bootstrap, JavaScript, jQuery, and Angular 13**.  
-- Building back-end services using **Node.js/Express.js, C# 10, .NET 6, ASP.NET (MVC 5/Core 6)**.  
-- Designing and managing databases using **Entity Framework** and **MS SQL Server**.  
-- Contributing to **Razor-based applications** and **RESTful APIs (MVC 5/Core 6 Web API)**.  
-- Collaborating on team-based projects following industry best practices.
-
-## 🏆 Certification  
-- **[IsDB-BISEW](https://isdb-bisew.org/) Diploma in Web Application Development Using ASP.NET (WADA)**  
-  *IsDB-BISEW IT Scholarship Programme - Round 54*  
+![.NET](https://img.shields.io/badge/.NET-9.0-purple?logo=dotnet)  
+![Angular](https://img.shields.io/badge/Angular-20+-dd0031?logo=angular)    
+![Blazor](https://img.shields.io/badge/Blazor-Server-lightblue?logo=blazor)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Optimized-blue?logo=microsoftsqlserver)  
+![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)
 
 ---
+
+
+## 👨‍💻 About Me
+
+I am a **Full-stack .NET Developer** skilled in **C#, .NET Core, Angular, Blazor Server, and SQL Server**. I specialize in ERP systems and microservices, applying EF Core, Dapper, Docker, and CI/CD workflows to deliver secure, scalable solutions. My focus is clean architecture, domain‑driven design, performance optimization, and cloud-native deployment, contributing to impactful projects that align technical excellence with business value.
 
 ## 🛠️ Skills and Technologies
 
 ### Languages
-- **C#**
-- HTML, CSS, JavaScript, TypeScript
 
-### Frameworks
-- **ASP.NET**, **ASP.NET Core**
-- EF & EF Core, Fluent API, MediatR
-- **ASP.NET MVC 5**, Angular, Blazor server
+-   **C#**, TypeScript
+    
+-   HTML, CSS, JavaScript
+    
 
-### Development Functionalities
-- **Identity**: Implementing authentication and authorization using ASP.NET Identity.
-- **EF Core**: Utilizing ORM for database access and manipulation.
-- **CORS**: Configuring Cross-Origin Resource Sharing for secure API communication.
-- **Custom Attributes**: Creating and using custom attributes for modular and reusable code.
-- **SOLID Architecture**: Applying SOLID principles for maintainable and scalable software design.
-- **SPA (Single Page Application)**: Developing dynamic and responsive user interfaces.
-- **Routing**: Implementing sophisticated ASP.NET Core and MVC routing mechanisms.
-- **Clean Architecture**: Structuring codebase for maximum readability and maintainability.
-- **DDD (Domain-Driven Design) Architecture**: Applying DDD principles for complex business applications.
+### Frameworks & Platforms
 
-### Cloud Services
-- **Microsoft Azure**: Expertise in deploying and managing applications in the cloud.
-- **Amazon Web Services (AWS)**
+-   **.NET Core (6–10)**, Minimal APIs
+    
+-   **Blazor Server** (interactive UI components)
+    
+-   **Angular (v20+)** for dynamic front‑end applications
+    
+-   **ASP.NET MVC**
+    
+-   **EF & EF Core**, **Dapper**
+    
 
-### DevOps and CI/CD
-- **Azure DevOps**, GitHub
+### Architecture & Development Practices
 
----
+-   **SOLID Principles** for maintainable and extensible codebases
+    
+-   **DRY (Don’t Repeat Yourself)** to reduce duplication and improve consistency
+    
+-   **KISS (Keep It Simple)** to ensure clarity and avoid unnecessary complexity
+    
+-   **Clean & Layered Architecture** separating concerns into **Presentation, Application, Domain, and Infrastructure layers** for scalability and testability
+    
+-   **Domain‑Driven Design (DDD) & CQRS** for handling complex business logic
+    
+-   **RESTful API Design** for scalable integrations
+    
+-   **Database Optimization** with SQL Server stored procedures, query tuning, and indexing
+    
+-   **Single Page Applications (SPA)** using Angular & Blazor
+    
+-   **Routing** in ASP.NET Core and MVC
+    
+
+### Databases
+
+-   **SQL Server** (advanced optimization)
+    
+-   **MongoDB**, **PostgreSQL**, **Redis**
+    
+
+### Cloud & DevOps
+
+-   **Microsoft Azure**
+    
+-   **Docker** for containerization    
+    
+-   **CI/CD Pipelines** with GitHub Actions & Azure DevOps
+
+## 💼 Work Experience
+
+### 💻 Software Engineer (.NET) | [Again Software Solutions](https://againsoft.com/) | January 2026 – Present
+At **AgainSoft**, a leading software and e-Commerce development company in Bangladesh, I contribute to building scalable web applications that support digital transformation across industries. My role emphasizes hands-on engineering, cross-functional collaboration, and delivering production-ready features aligned with business goals.
+
+**Key Contributions:**
+
+-   Develop and maintain web applications using **.NET 8**
+    
+-   Design and implement **secure RESTful APIs**
+    
+-   Optimize **SQL Server** queries and stored procedures
+    
+-   Build interactive UI components using **Blazor Server**
+    
+-   Collaborate with cross-functional teams to deliver new features
+    
+-   Write clean, well-documented, scalable code
+    
+-   Debug, test, and tune application performance
+
+### 💻 Software Engineer | [Software Arena Limited](https://softwarearenaltd.com/) | August 2025 – December 2025
+
+At **Software Arena Limited**, I contributed to the design and development of scalable, web-based ERP applications tailored for clients.
+
+**Key Contributions:**
+-   Engineered ERP modules with **.NET Core (C#)**, **Angular & TypeScript**, and integrated **RESTful Web APIs** using **Dapper**
+-   Designed and optimized **SQL Server stored procedures**
+-   Integrated **Crystal Reports** into ERP workflows
+-   Delivered **custom ERP modules** aligned with client needs
+-   Maintained collaborative workflows using **Git/GitHub**
+
+### 💻 Web Developer (C#) | Alpha Net | July 2023 – October 2024
+
+Developed and maintained web applications using **.NET Core**, **MVC**, and the **Alpha CMS Core Framework**, bridging backend logic with responsive front‑end features.
+
+-   Developed front‑end features with **Razor, HTML, CSS, JavaScript, and jQuery**
+    
+-   Built back‑end services using **C#, Entity Framework, and SQL Server**
+    
+-   Managed version control and collaborative workflows with **Git** and **Azure DevOps**
+
+### Internship Trainee | US Software Ltd | **November 2022 – May 2023**
+
+Expanded skills in full-stack development during a 6-month internship.
+
+-   **Front-end**: HTML5, CSS3, Bootstrap, JavaScript, Angular 13
+-   **Backend**: Node.js/Express.js, C# 10, .NET Core 6, EF
+-   **Database**: MS SQL Server
+-   Built RESTful APIs and Razor-based applications
+
+
+## 📆 Career Break 
+### Professional Development | Independent | November 2024 – July 2025
+
+Focused on upskilling in modern .NET and full‑stack development, emphasizing architecture, performance, and testability.
+
+-   Practiced **.NET 8/9**, **Minimal APIs**, **Clean Architecture**, **DDD**, **CQRS**
+    
+-   Built RESTful APIs using **EF Core**, **Fluent API**, **MediatR**, **Fluent Validation**
+    
+-   Practiced automated testing with **xUnit**, **Moq**, **FluentAssertions**
+    
+-   Rebuilt front-end integrations with **Angular** and **Blazor**, focusing on responsive UX
+    
+-   Documented learning with code samples and technical write-ups
+
+----------
+
+## 🏆 Certification
+
+-   **[IsDB-BISEW](https://isdb-bisew.org/)** Diploma in Web Application Development Using ASP.NET (WADA)  
+    _IsDB-BISEW IT Scholarship Programme - Round 54_
+
+----------
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sujadud&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sujadud&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujadud&layout=compact&theme=radical)
----
+
+----------
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [SujadUD](https://www.linkedin.com/in/sujadud)
+-   **LinkedIn**: [SujadUD](https://www.linkedin.com/in/sujadud)
+- **GitHub**: [GitHub](https://github.com/sujadud) 
 
-Feel free to reach out to me for collaborations, job opportunities, or just to say hi! I'm always open to connecting with fellow developers and tech enthusiasts.
+Feel free to reach out for collaborations, job opportunities, or just to connect with fellow developers and tech enthusiasts.
 
----
+----------
 
-### 🎯 Goals for 2025
-- Contribute more to open-source projects
-- Explore new technologies like Blazor and MAUI
-- Improve my knowledge of cloud-native development
+Thank you for visiting my profile. Let’s connect to collaborate on impactful .NET solutions.
 
----
-
-Thank you for visiting my profile! Happy coding! 😊
-
----
+----------
