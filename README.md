@@ -1,3 +1,7 @@
+
+Missing ## 📚 Featured Projects & Goals add in a same section
+Now analyze the 
+
 # 👋 Hi there, I'm Sujad UD
 
 🚀 **Software Engineer (Full-stack .NET Developer)** | Scalable .NET, Angular & Blazor Solutions
@@ -18,6 +22,21 @@
 ## 👨‍💻 About Me
 
 I am a **Full-stack .NET Developer** skilled in **C#, .NET Core, Angular, Blazor Server, and SQL Server**. I specialize in ERP systems and microservices, applying EF Core, Dapper, Docker, and CI/CD workflows to deliver secure, scalable solutions. My focus is clean architecture, domain‑driven design, performance optimization, and cloud-native deployment, contributing to impactful projects that align technical excellence with business value.
+
+## 📚 Featured Projects & Goals 
+### 📖 Bookstore Microservices (Coming Soon)  
+- Designing .NET 10 microservices (Product, Basket, Discount, Ordering) with RabbitMQ, Ocelot Gateway, and Kubernetes deployment. 
+- > Polyglot persistence with SQL Server, MongoDB, and Redis.
+
+### 🎯 Goals for 2026
+
+-   Launch and document my **.NET 10 bookstore microservices project**
+    
+-   Master **Kubernetes and Helm** for cloud-native deployment
+    
+-   Contribute to open-source and technical writing
+    
+-   Explore **Blazor**, **MAUI**, and advanced **API Gateway** patterns
 
 ## 🛠️ Skills and Technologies
 
@@ -84,7 +103,7 @@ At **AgainSoft**, a leading software and e-Commerce development company in Bangl
 
 **Key Contributions:**
 
--   Develop and maintain web applications using **.NET 8**
+-   Developed and maintain web applications using **.NET 8**
     
 -   Design and implement **secure RESTful APIs**
     
@@ -113,9 +132,9 @@ At **Software Arena Limited**, I contributed to the design and development of sc
 
 Developed and maintained web applications using **.NET Core**, **MVC**, and the **Alpha CMS Core Framework**, bridging backend logic with responsive front‑end features.
 
--   Developed front‑end features with **Razor, HTML, CSS, JavaScript, and jQuery**
+-   Implemented front‑end features with **Razor, HTML, CSS, JavaScript, and jQuery**
     
--   Built back‑end services using **C#, Entity Framework, and SQL Server**
+-   Developed back‑end services using **C#, Entity Framework, and SQL Server**
     
 -   Managed version control and collaborative workflows with **Git** and **Azure DevOps**
 
@@ -155,7 +174,7 @@ Focused on upskilling in modern .NET and full‑stack development, emphasizing a
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sujadud&show_icons=true&theme=radical)  
+![SujadUD's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujadud&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujadud&layout=compact&theme=radical)
 
 ----------
