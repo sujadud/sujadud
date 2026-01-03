@@ -1,7 +1,3 @@
-
-Missing ## 📚 Featured Projects & Goals add in a same section
-Now analyze the 
-
 # 👋 Hi there, I'm Sujad UD
 
 🚀 **Software Engineer (Full-stack .NET Developer)** | Scalable .NET, Angular & Blazor Solutions
