@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 
-![.NET](https://img.shields.io/badge/.NET-9.0-purple?logo=dotnet)  
+![.NET](https://img.shields.io/badge/.NET-10.0-purple?logo=dotnet)  
 ![Angular](https://img.shields.io/badge/Angular-20+-dd0031?logo=angular)    
 ![Blazor](https://img.shields.io/badge/Blazor-Server-lightblue?logo=blazor)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Optimized-blue?logo=microsoftsqlserver)  
@@ -99,7 +99,7 @@ At **AgainSoft**, a leading software and e-Commerce development company in Bangl
 
 **Key Contributions:**
 
--   Developed and maintain web applications using **.NET 8**
+-   Developed and maintained web applications using **.NET 10**
     
 -   Design and implement **secure RESTful APIs**
     
